@@ -1,4 +1,4 @@
 # School-Portfolio
-HCI M3 Requirement
-Jan Marie Catada
+HCI M3 Portfolio Requirement
+Catada, Jan Marie T. 
 Team NUVHEN
